@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#071b2a">
+  <title>潮汐郵差：月光航線</title>
+  <link rel="stylesheet" href="src/style.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="topline"><div class="brand"><span class="brand-mark">✦</span><span>潮汐郵差</span><small>月光航線</small></div><div class="top-note"><span class="live-dot"></span> 今夜的海況：微光湧潮</div></header>
+    <section class="game-wrap" aria-label="遊戲畫面">
+      <canvas id="sea" width="960" height="600" aria-label="潮汐郵差遊戲畫布"></canvas>
+      <div class="bottom-hint"><span>← → / A D 移動</span><i></i><span>空白鍵／點擊　加速衝刺</span><i></i><span>收集月貝，避開礁石</span></div>
+    </section>
+    <footer><span>一趟 75 秒的夜航</span><span class="footer-right">航線圖由潮汐即時改寫　·　聲音可於遊戲內切換</span></footer>
+  </main>
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>
