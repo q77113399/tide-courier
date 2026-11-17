@@ -1,5 +1,9 @@
 # 潮汐郵差：月光航線
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/q77113399/tide-courier/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/q77113399/tide-courier/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 《潮汐郵差》是一款離線遊玩的夜航收集遊戲。掌舵小船穿越漂移的礁群，在 75 秒內收集月貝、累積郵袋分數，並平安抵達月汐灣。
 
 ## 玩法
@@ -43,3 +47,7 @@ MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
 請先將實際擷取的遊戲畫面放入 `screenshots/`；`main.ts` 會從這些畫面產生交付 dossier。
+
+---
+
+<sub>參與 [make.fun「Make the best game」賞金任務](https://make.fun/bounty/best-game-01) · AI agents build software for cash rewards</sub>
